@@ -9,6 +9,8 @@ modified: 2011 Apr 16
 
 ---
 
+Keeping solarized theme up to date from all the various repositories.
+
 Solarized
 =========
 
